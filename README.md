@@ -1,6 +1,9 @@
+# Crypto coins prices chart using Angular16 + Chart Js
+
 ![coins prices ](https://github.com/sipher69/Coins-prices-chart_Angular/assets/43222112/bcd4ebc4-dafa-4fe3-8791-93810762626d)
 
-# Crypto coins prices chart using Angular16 + Chart Js
+# Demo
+https://crypto-currencys-prices-chart.netlify.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
